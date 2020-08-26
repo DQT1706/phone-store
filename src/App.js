@@ -1,9 +1,13 @@
 import React from 'react';
 import './App.css';
+import HomePage from './pages/HomePage';
 
 function App() {
   return (
-    <div>hello</div>
+    // use BEM ,block element modified
+    <div className="App">
+      <HomePage/>
+    </div>
   );
 }
 
