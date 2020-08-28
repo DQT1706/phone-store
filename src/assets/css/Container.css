@@ -7,6 +7,8 @@
   background-color: white;
   align-items: center;
   justify-content: space-between;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
 }
 
 .product-header-name:hover .product-header-name-link {
@@ -34,6 +36,10 @@
   align-items: center;
   justify-content: space-around;
 }
+
+.product-header-list-item {
+  padding-left: 10px;
+}
 .product-header-list-item:hover .product-header-list-item-link {
   text-decoration: underline;
   color: var(--primary-color);
@@ -50,13 +56,22 @@
 .wrapper-product-item {
   background-color: white;
   border-top: 1px solid;
-  border-bottom: 1px solid;
   border-color: var(--border-color);
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 .product-item-often {
   border-right: 1px solid var(--border-color);
   padding: 20px;
+  /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2); */
+  transition: transform 0.2s linear;
+  will-change: transform;
+}
+.product-item-often:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .product-item-often:last-child {
@@ -110,6 +125,125 @@
   line-height: 1.3rem;
 }
 
-.item-offset-info-strong{
+.item-offset-info-strong {
+  color: var(--primary-color);
+}
+
+/* tag discount  */
+.product-item-offset-tag-discount {
+  width: 50%;
+  height: 28px;
+  border: 1px solid;
+  position: absolute;
+  top: 50%;
+  border-radius: 20px;
+  border-color: #df7215;
+  background-image: linear-gradient(-90deg, #ec1f1f 0%, #ff9c00 100%);
+}
+
+.offset-tag-icon-border {
+  border: 1px solid;
+  position: absolute;
+  border-color: #d53c01;
+  border-radius: 50%;
+  width: 25px;
+  align-items: center;
+  display: flex;
+  background-color: #de4409;
+  height: 100%;
+  justify-content: center;
+}
+
+.offset-tag-discount-icon {
+  font-size: 1.3rem;
+  color: var(--white-color);
+}
+
+.offset-tag-discount-content {
+  padding-left: 30px;
+  color: var(--white-color);
+  font-size: 1.2rem;
+}
+/* end tag discount */
+
+/* sticker */
+
+.product-item-offset-sticker {
+}
+
+.offset-sticker-content {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+  width: 45px;
+  height: 45px;
+  font-size: 1.3rem;
+  padding-top: 10px;
+  background-color: var(--primary-color);
+  text-align: center;
+  color: var(--white-color);
+}
+.offset-sticker-content::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  border-width: 0px 20px 5px;
+  border-style: solid;
+  border-color: transparent rgba(57, 181, 74, 0.98) transparent;
+}
+
+/* end sticker */
+
+/* TAG PRODUCT HOT*/
+.product-item-offset-tag-hot {
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  margin: 10px;
+  background-color: red;
+}
+.product-item-offset-tag-hot::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  border-width: 0 0 5px 5px;
+  border-style: solid;
+  border-color: transparent rgba(255, 0, 0, 0.98) transparent;
+}
+.offset-tag-hot-sticker {
+  font-size: 1.3rem;
+  color: var(--white-color);
+}
+
+
+/* row see all */
+
+.wrapper-product-see-all{
+    background-color: white;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: var(--border-color);
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.see-all-link{
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    font-size: 2rem;
+    color: var(--text-color);
+    line-height: 2rem;
+    text-decoration: none;
+}
+.see-all-link:hover{
     color: var(--primary-color);
 }
