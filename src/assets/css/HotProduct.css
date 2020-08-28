@@ -1,0 +1,34 @@
+.hot-product-wrapper{
+  
+}
+
+
+.hot-product-name{
+    background-color: var(--white-color);
+    margin-top: 15px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.hot-wrapper{
+    background-color: var(--white-color);
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding-bottom: 15px;
+}
+
+.hot-product-content{
+    font-size: 2rem;
+}
+
+.hot-wrapper-item{
+
+}
+
+.hot-wrapper-img{
+
+}
+
+.hot-product-img{
+    width: 100%;
+}

@@ -1,0 +1,115 @@
+.wrapper-product {
+  padding-top: 20px;
+}
+
+.wrapper-product-header {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.product-header-name:hover .product-header-name-link {
+  text-decoration: underline;
+  text-decoration-color: var(--primary-color);
+}
+
+.product-header-name-link {
+  text-decoration: none;
+  font-size: 1.75rem;
+  line-height: 1.8rem;
+  color: var(--text-color);
+}
+
+.product-header-name-link-hover {
+  color: var(--primary-color);
+}
+.product-header-navbar {
+}
+
+.product-header-list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.product-header-list-item:hover .product-header-list-item-link {
+  text-decoration: underline;
+  color: var(--primary-color);
+}
+.product-header-list-item-link {
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 450;
+}
+
+/* row 2 */
+
+.wrapper-product-item {
+  background-color: white;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: var(--border-color);
+}
+
+.product-item-often {
+  border-right: 1px solid var(--border-color);
+  padding: 20px;
+}
+
+.product-item-often:last-child {
+  border: none;
+}
+
+.product-item-offset {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.product-wrapper-img-item {
+  width: 100%;
+}
+
+.product-item-offset-name:hover .offset-name-link {
+  text-decoration: underline;
+  color: var(--primary-color);
+}
+
+.offset-name-link {
+  text-decoration: none;
+  color: #504550;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.product-item-offset-price {
+  width: 100%;
+  font-size: 1.5rem;
+  color: red;
+  font-weight: 500;
+}
+
+.item-offset-price {
+}
+
+.item-offset-old-price {
+  color: var(--text-color);
+  padding-left: 15px;
+  font-weight: 400;
+  text-decoration: line-through;
+}
+
+.product-item-offset-info {
+  padding-top: 5px;
+}
+
+.item-offset-info {
+  font-size: 1.3rem;
+  line-height: 1.3rem;
+}
+
+.item-offset-info-strong{
+    color: var(--primary-color);
+}

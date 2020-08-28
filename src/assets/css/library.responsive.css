@@ -5,6 +5,17 @@
 
 */
 
+:root {
+  --primary-color: #39b54a;
+  --white-color: #fff;
+  --black-color: #000;
+  --text-color: #333;
+  --border-color: #dbdbdb;
+  --button-color: #48a2bb;
+  --height-header: 100px;
+  --border-input-size: 10px;
+}
+
 /* mobile */
 
 /*  grid */
@@ -179,6 +190,7 @@
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
   }
+
   .m-3 {
     flex: 0 0 25%;
     max-width: 25%;
@@ -293,6 +305,10 @@
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
   }
+  .l-2-4 {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
   .l-3 {
     flex: 0 0 25%;
     max-width: 25%;
@@ -382,6 +398,7 @@
     margin-left: -12px;
     margin-right: -12px;
   }
+
   .wide .col {
     padding-left: 12px;
     padding-right: 12px;
@@ -410,6 +427,11 @@
   .wide .l-2 {
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
+  }
+
+  .wide .l-2-4 {
+    flex: 0 0 20%;
+    max-width: 20%;
   }
   .wide .l-3 {
     flex: 0 0 25%;
