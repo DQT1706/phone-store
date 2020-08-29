@@ -1,0 +1,584 @@
+[
+    {
+        "id": 1,
+        "title": "SONY",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "Sony Z3"
+            },
+            {
+                "id": 2,
+                "type": "Sony XZ | XZs"
+            },
+            {
+                "id": 3,
+                "type": "Sony XZ1"
+            },
+            {
+                "id": 4,
+                "type": "Sony XZ Premium"
+            },
+            {
+                "id": 5,
+                "type": "Sony XZ2 | XZ2 Premium"
+            },
+            {
+                "id": 6,
+                "type": "Sony XZ3 "
+            },
+            {
+                "id": 7,
+                "type": "Sony Xperia 1"
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2020/01/17/resized/untitled-1_1579236078.png",
+                "name_phone": "Sony XZ Premium cũ (Đẹp 99%)",
+                "price": "3.690.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/xz1-png_1546492346-copy_1596423483.png",
+                "name_phone": "Sony Xperia XZ1 Mới",
+                "price": "2.790.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2018/12/27/resized/xperia-xzs-blue-product-shot-2000x2000-0a3611d9214fefb3a5549060d94ab0df_1545920806.png.webp",
+                "name_phone": "Sony Xperia XZs cũ (Đẹp 99%)",
+                "price": "1.990.000₫ ",
+                "old_price": "2.190.000₫",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "200.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2019/07/12/resized/xperia-xz-blue-product-shot-2000x2000-5506160823bf9f2eb2b6a01a77557fd4_1562920037.png.webp",
+                "name_phone": "Sony Xperia XZ cũ (Đẹp 99%)",
+                "price": "1.790.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2020/06/13/resized/sony-z3-cu-didongmango_1540470431-copy_1592016093.png",
+                "name_phone": "Sony Z3 cũ (Đẹp 98-99%)",
+                "price": "1.090.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "GOOGLE PIXEL",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "Google Pixel 2 XL"
+            },
+            {
+                "id": 2,
+                "type": "Google Pixel 3 XL"
+            },
+            {
+                "id": 3,
+                "type": "Google Pixel 4 XL"
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/z1294381448011-4b25d5fe90b442ba8663bea0ec3212eb_1596429647.jpg",
+                "name_phone": "Google Pixel 2 XL cũ (Đẹp 99%)",
+                "price": "3.990.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/z1294381448011-4b25d5fe90b442ba8663bea0ec3212eb_1596429642.jpg",
+                "name_phone": "Google Pixel 2 XL Mới",
+                "price": "4.690.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/avt-pixel-3-xl-den_1596429633.png",
+                "name_phone": "Google Pixel 3 XL cũ (Đẹp 99%)",
+                "price": "5.990.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/avt-pixel-3-xl-den_1596429627.png",
+                "name_phone": "Google Pixel 3 XL Mới",
+                "price": "6.590.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/google-pixel-4-xl_1596429619.jpg",
+                "name_phone": "Google Pixel 4 XL Mới",
+                "price": "14.990.000₫",
+                "old_price": "4.000.000",
+                "content_first": "Bảo hành vàng  ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "LG",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "LG G6 "
+            },
+            {
+                "id": 2,
+                "type": "LG G7"
+            },
+            {
+                "id": 3,
+                "type": "LG G8"
+            },
+            {
+                "id": 4,
+                "type": "LG V20"
+            },
+            {
+                "id": 5,
+                "type": "LG V30 | V30 Plus"
+            },
+            {
+                "id": 6,
+                "type": "LG V40"
+            },
+            {
+                "id": 7,
+                "type": "LG V50"
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2019/07/29/resized/layer-8_1564386912.jpg",
+                "name_phone": "LG G8 ThinQ Hàn (3 camera) - Đẹp 99%",
+                "price": "6.190.000₫",
+                "old_price": "6.490.000₫",
+                "content_first": "Hàng nguyên zin ",
+                "content_main": "BẢO HÀNH 1 ĐỔI 1 TRONG 6 THÁNG",
+                "content_last": "",
+                "discount": " 300.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2020/07/11/resized/11_1594450002.png",
+                "name_phone": "LG G8 ThinQ Mỹ (2 camera) - Đẹp 99%",
+                "price": "4.690.000₫",
+                "old_price": "",
+                "content_first": "Hàng nguyên zin ",
+                "content_main": "BẢO HÀNH 1 ĐỔI 1 TRONG 6 THÁNG",
+                "content_last": "",
+                "discount": " 300.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2019/07/29/resized/layer-0_1564388118.png",
+                "name_phone": "LG V40 ThinQ 64G cũ (Đẹp 99%)",
+                "price": "4.390.000₫",
+                "old_price": "4.690.000₫",
+                "content_first": "Hàng nguyên zin ",
+                "content_main": "BẢO HÀNH 1 ĐỔI 1 TRONG 6 THÁNG",
+                "content_last": "",
+                "discount": " 300.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2020/05/28/resized/2sim_1590629136.png",
+                "name_phone": "LG V40 ThinQ 128G 2 SIM cũ (Đẹp 99%)",
+                "price": "4.790.000₫",
+                "old_price": "5.090.000₫",
+                "content_first": "Hàng nguyên zin ",
+                "content_main": "BẢO HÀNH 1 ĐỔI 1 TRONG 6 THÁNG",
+                "content_last": "",
+                "discount": " 300.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2019/08/01/resized/layer-0_1564666707.png",
+                "name_phone": "LG G7 ThinQ cũ (Đẹp 99%)",
+                "price": "3.490.000₫",
+                "old_price": "",
+                "content_first": "Hàng nguyên zin ",
+                "content_main": "BẢO HÀNH 1 ĐỔI 1 TRONG 6 THÁNG",
+                "content_last": "",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "SAMSUNG",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "Samsung S8 | S8 Plus "
+            },
+            {
+                "id": 2,
+                "type": "Samsung Note 8 "
+            },
+            {
+                "id": 3,
+                "type": "Samsung S9 | S9 Plus "
+            },
+            {
+                "id": 4,
+                "type": "Samsung Note 9 "
+            },
+            {
+                "id": 5,
+                "type": "Samsung S10 Plus "
+            },
+            {
+                "id": 6,
+                "type": "Samsung  Note 10 Plus"
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/2sim_1596423764.png",
+                "name_phone": "Samsung Note 9 128G 2 SIM Mới",
+                "price": "8.790.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất,  còn chống nước",
+                "content_main": "còn chống nước",
+                "content_last": "",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2019/10/30/resized/purple1_1572403655.png",
+                "name_phone": "Samsung Galaxy S9 2 SIM 64G cũ (Đẹp 99%)",
+                "price": "5.690.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất,  còn chống nước",
+                "content_main": "còn chống nước",
+                "content_last": "",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2019/02/26/resized/2sim_1551165414.png",
+                "name_phone": "Google Pixel 3 XL cũ (Đẹp 99%)",
+                "price": "5.290.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất,  còn chống nước",
+                "content_main": "còn chống nước",
+                "content_last": "",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2019/05/15/resized/blue_1557887852.png",
+                "name_phone": "Samsung Galaxy S8 64G cũ (Đẹp 99%)",
+                "price": "3.990.000₫",
+                "old_price": "4.190.000₫",
+                "content_first": "Máy nguyên zin, nguyên áp suất,  còn chống nước",
+                "content_main": "còn chống nước",
+                "content_last": "",
+                "discount": " 200.000₫",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/1212_1596423555.png",
+                "name_phone": "Samsung Note 10 Plus Mới",
+                "price": "13.790.000₫",
+                "old_price": "14.790.000₫",
+                "content_first": "Máy nguyên zin, nguyên áp suất,  còn chống nước",
+                "content_main": "còn chống nước",
+                "content_last": "",
+                "discount": "GIẢM 1.000.000₫",
+                "state": "NEW",
+                "state2": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "IPHONE",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "IPHONE 5C | 5S | 5 | SE "
+            },
+            {
+                "id": 2,
+                "type": "IPHONE 6S | 6S Plus "
+            },
+            {
+                "id": 3,
+                "type": "IPHONE 7 | 7 Plus "
+            },
+            {
+                "id": 4,
+                "type": "IPHONE 8 | 8 Plus  "
+            },
+            {
+                "id": 5,
+                "type": "IPHONE X | XR  "
+            },
+            {
+                "id": 6,
+                "type": "IPHONE  XS | XS MAX "
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2019/05/07/resized/apple-iphone-xs-max-256gb-a12bionic-oro-1433046-1_l_1541042142_1557213123.png",
+                "name_phone": "iPhone Xs Max 64G cũ (Đẹp 99%)",
+                "price": "13.690.000₫",
+                "old_price": "14.190.000₫",
+                "content_first": "Bảo hành vàng",
+                "content_main": "12 THÁNG 1 ĐỔI 1",
+                "content_last": "",
+                "discount": " 500.000₫",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2019/07/17/resized/3_1541844692_1563355174.png",
+                "name_phone": "iPhone 8 Plus 64G cũ (Đẹp 99%)",
+                "price": "8.990.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay.",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2018/09/27/resized/6s-plus-didongmango_1538050413.png",
+                "name_phone": "iPhone 6S Plus 16G cũ (Đẹp 99%)",
+                "price": "4.290.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay.",
+                "discount": "",
+                "state": "",
+                "state2": "HOT"
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2019/05/22/resized/a961db9d72964ede873ee977ac39b037_large_1558490273-copy.png",
+                "name_phone": "iPhone 5C 16G cũ (Đẹp 97-99%)",
+                "price": "1.190.000₫",
+                "old_price": "4.190.000₫",
+                "content_first": "Bảo hành vàng ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay.",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2018/08/29/resized/5sgold_34x_1535499372.png",
+                "name_phone": "iPhone 5S 16G cũ (Đẹp 99%)",
+                "price": "1.590.000₫",
+                "old_price": "",
+                "content_first": "Bảo hành vàng ",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "cả lỗi nguồn, màn hình, vân tay.",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "IPAD GIÁ RẺ",
+        "phone_type": [
+            {
+                "id": 1,
+                "type": "IPAD Mini 1"
+            },
+            {
+                "id": 2,
+                "type": "IPAD Mini 2  "
+            },
+            {
+                "id": 3,
+                "type": "IPAD 2"
+            },
+            {
+                "id": 4,
+                "type": "IPAD 4  "
+            },
+            {
+                "id": 5,
+                "type": "IPAD Air 1 "
+            },
+            {
+                "id": 6,
+                "type": "IPAD Air 2"
+            },
+            {
+                "id": 7,
+                "type": "IPAD Mini 4"
+            }
+        ],
+        "product_phone": [
+            {
+                "id": 1,
+                "img": "https://didongmango.com/images/products/2020/04/09/resized/ipad-gen-6-2018_1586400170.png",
+                "name_phone": "Samsung Note 9 128G 2 SIM Mới",
+                "price": "8.790.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất, còn chống nước",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "ahihi",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 2,
+                "img": "https://didongmango.com/images/products/2019/10/30/resized/purple1_1572403655.png",
+                "name_phone": "Samsung Galaxy S9 2 SIM 64G cũ (Đẹp 99%)",
+                "price": "5.690.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất, còn chống nước",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "ahihi",
+                "discount": "",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 3,
+                "img": "https://didongmango.com/images/products/2019/02/26/resized/2sim_1551165414.png",
+                "name_phone": "Google Pixel 3 XL cũ (Đẹp 99%)",
+                "price": "5.290.000₫",
+                "old_price": "",
+                "content_first": "Máy nguyên zin, nguyên áp suất, còn chống nước",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "ahihi",
+                "discount": "",
+                "state": "",
+                "state2": ""
+            },
+            {
+                "id": 4,
+                "img": "https://didongmango.com/images/products/2019/05/15/resized/blue_1557887852.png",
+                "name_phone": "Samsung Galaxy S8 64G cũ (Đẹp 99%)",
+                "price": "3.990.000₫",
+                "old_price": "4.190.000₫",
+                "content_first": "Máy nguyên zin, nguyên áp suất, còn chống nước",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "ahihi",
+                "discount": " 200.000₫",
+                "state": "NEW",
+                "state2": ""
+            },
+            {
+                "id": 5,
+                "img": "https://didongmango.com/images/products/2020/08/03/resized/1212_1596423555.png",
+                "name_phone": "Samsung Note 10 Plus Mới",
+                "price": "13.790.000₫",
+                "old_price": "14.790.000₫",
+                "content_first": "Máy nguyên zin, nguyên áp suất, còn chống nước",
+                "content_main": "6 THÁNG 1 ĐỔI 1",
+                "content_last": "ahihi",
+                "discount": "GIẢM 1.000.000₫",
+                "state": "NEW",
+                "state2": ""
+            }
+        ]
+    }
+]
