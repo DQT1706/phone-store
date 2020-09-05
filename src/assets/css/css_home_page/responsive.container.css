@@ -1,0 +1,49 @@
+@media (min-width: 740px) and (max-width: 1239px) {
+  .product-item-often {
+    margin-top: 10px;
+  }
+  .product-item-offset-tag-discount {
+    width: 45%;
+    top: 60%;
+  }
+}
+
+@media (max-width: 739px) {
+  .product-item-often {
+    margin-top: 15px;
+  }
+  .product-header-navbar {
+    display: none;
+  }
+  .product-item-offset-tag-discount {
+    width: 55%;
+  }
+}
+
+@media (min-width: 550px) and (max-width: 739px) {
+  .product-item-offset-tag-discount {
+    width: 45%;
+    top: 55%;
+  }
+}
+
+@media (min-width: 1023px) and (max-width: 1239px) {
+  .product-item-offset-tag-discount {
+    width: 65%;
+    top: 45%;
+  }
+}
+
+@media (max-width: 375px) {
+  .product-item-offset-tag-discount {
+    width: 75%;
+    top: 35%;
+  }
+  .product-item-offset-price {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .item-offset-old-price {
+    padding-left: 0;
+  }
+}

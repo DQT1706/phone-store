@@ -1,26 +1,26 @@
 import React, { useState, useEffect } from "react";
-import "../assets/css/Sidebar.css";
-import "../assets/css/library.responsive.css";
-import "../assets/css/responsive.sidebar.css";
-import img1 from "../assets/img/htc-u11_1598071881.jpg";
-import img2 from "../assets/img/iphone-7-plus-128_1597918393.jpg.webp";
+import "../../assets/css/css_home_page/Sidebar.css";
+import "../../assets/css/library/library.responsive.css";
+import "../../assets/css/css_home_page/responsive.sidebar.css";
+import img1 from "../../assets/img/htc-u11_1598071881.jpg";
+import img2 from "../../assets/img/iphone-7-plus-128_1597918393.jpg.webp";
+import slide_img1 from "../../assets/img/google-copy_1596536340.jpg.webp";
+import slide_img2 from "../../assets/img/htc-u11_1598071881.jpg";
+import slide_img3 from "../../assets/img/iphone-7-plus-128_1597918393.jpg.webp";
+import slide_img4 from "../../assets/img/lg-g8_1595388725.jpg.webp";
+import {Link} from 'react-router-dom'
 
-import slide_img1 from "../assets/img/google-copy_1596536340.jpg.webp";
-import slide_img2 from "../assets/img/htc-u11_1598071881.jpg";
-import slide_img3 from "../assets/img/iphone-7-plus-128_1597918393.jpg.webp";
-import slide_img4 from "../assets/img/lg-g8_1595388725.jpg.webp";
-
-const SideBar = () => {
+const SlideShow = () => {
   const List_IMG = [slide_img1, slide_img2, slide_img3, slide_img4];
   const [current, setCurrent] = useState(0);
   const { length } = List_IMG;
 
-  const goToNext = () => {
-    setCurrent(current === length - 1 ? 0 : current + 1);
-  };
   useEffect(() => {
+    const goToNext = () => {
+      setCurrent(current === length - 1 ? 0 : current + 1);
+    };
     setTimeout(goToNext, 4000);
-  });
+  },[current]);
 
   if (!Array.isArray(List_IMG) || length <= 0) {
     return null;
@@ -57,11 +57,7 @@ const SideBar = () => {
                       key={i}
                     >
                       {i === current && (
-                        <img
-                          src={s}
-                          alt="img"
-                          className="slideshow-img-item"
-                        />
+                        <img src={s} alt="img" className="slideshow-img-item" />
                       )}
                     </div>
                   ))}
@@ -84,4 +80,4 @@ const SideBar = () => {
   );
 };
 
-export default SideBar;
+export default SlideShow;

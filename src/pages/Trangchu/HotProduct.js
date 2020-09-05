@@ -1,11 +1,11 @@
 import React from "react";
-import "../assets/css/HotProduct.css";
-import "../assets/css/library.responsive.css";
-import "../assets/css/responsive.hotproduct.css";
+import "../../assets/css/css_home_page/HotProduct.css";
+import "../../assets/css/library/library.responsive.css";
+import "../../assets/css/css_home_page/responsive.hotproduct.css";
 
-import hot1 from "../assets/img/hot1.webp";
-import hot2 from "../assets/img/hot2.webp";
-import hot3 from "../assets/img/hot3.webp";
+import hot1 from "../../assets/img/hot1.webp";
+import hot2 from "../../assets/img/hot2.webp";
+import hot3 from "../../assets/img/hot3.webp";
 
 const HotProduct = () => {
   const LIST_HOT = [hot1, hot2, hot3];

@@ -1,22 +1,21 @@
 import React from "react";
 import "./App.css";
-import HomePage from "./pages/HomePage";
-import Container from './pages/Container'
-import SideBar from "./pages/SideBar";
-import HotProduct from "./pages/HotProduct";
+import Home from "./pages/Trangchu/Home";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Homephone from "./pages/home_products/HomeProducts";
+import Details from './pages/Detail/DetailsProducts'
 
 function App() {
   return (
     // use BEM ,block element modified
-    <div className="App">
-      <React.Fragment>
-        <HomePage />
-        <SideBar/>
-        <HotProduct/>
-        <Container/>
-        <div style={ {height : '1000px'}}></div>
-      </React.Fragment>
-    </div>
+
+    <Router>
+      <Switch> 
+        <Route exact path="/home-phone" component={Homephone} />
+        <Route exact path="/detail/:id" component={Details}/>
+        <Route exact path="/" component={Home} />
+      </Switch>
+    </Router>
   );
 }
 

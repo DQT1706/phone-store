@@ -69,6 +69,10 @@
   flex: 0 0 16.66667%;
   max-width: 16.66667%;
 }
+.c-2-4 {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
 .c-3 {
   flex: 0 0 25%;
   max-width: 25%;
@@ -189,6 +193,10 @@
   .m-2 {
     flex: 0 0 16.66667%;
     max-width: 16.66667%;
+  }
+  .m-2-4 {
+    flex: 0 0 20%;
+    max-width: 20%;
   }
 
   .m-3 {
@@ -510,4 +518,11 @@
   .wide .l-o-11 {
     margin-left: 91.66663%;
   }
+}
+
+
+
+/* display none */
+.hide-element{
+  display: none;
 }

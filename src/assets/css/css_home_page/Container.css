@@ -2,6 +2,10 @@
   padding-top: 20px;
 }
 
+/* .wrapper-product--phone{
+  padding-top: 200px;
+} */
+
 .wrapper-product-header {
   display: flex;
   background-color: white;
@@ -131,7 +135,7 @@
 
 /* tag discount  */
 .product-item-offset-tag-discount {
-  width: 50%;
+  width: 55%;
   height: 28px;
   border: 1px solid;
   position: absolute;
@@ -247,3 +251,5 @@
 .see-all-link:hover{
     color: var(--primary-color);
 }
+
+
